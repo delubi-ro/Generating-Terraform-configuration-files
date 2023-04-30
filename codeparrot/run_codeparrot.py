@@ -1,6 +1,6 @@
 import os
 
-datasets = ['aws', 'aws-easy', 'gcp', 'gcp-easy', 'azure', 'azure-easy']
+datasets = ['aws-easy']
 
 for data in datasets:
     print('----------------------------------------------')
